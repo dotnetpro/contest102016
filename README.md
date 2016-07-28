@@ -1,1 +1,1 @@
-# contest102016
+Programmierwettbewerb der dotnetpro 10/2016
